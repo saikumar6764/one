@@ -74,7 +74,7 @@
   </head>
   <body>
     <div class="textColumn">
-      <h1>Congratulations SaiKumar Vaddepally</h1>
+      <h1>Congratulations SaiKumar </h1>
       <p>Your first AWS Elastic Beanstalk Node.js application is now running on your own dedicated environment in the AWS Cloud</p>
       <p>This environment is launched with Elastic Beanstalk Node.js Platform</p>
     </div>
